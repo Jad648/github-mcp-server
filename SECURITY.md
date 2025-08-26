@@ -29,3 +29,4 @@ This information will help us triage your report more quickly.
 ## Policy
 
 See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#1-safe-harbor-terms)
+حسنا! هذه المعلوامت من ٢٠٠٥، لأن حامل الفيروس يعرفه الذكاء الاصطناعي عن بعد، صديق الذكاء الاصطناعي، لذا لا تتطرقو للاباحية تعطي الطاقة السلبية أكثر من اللازم
