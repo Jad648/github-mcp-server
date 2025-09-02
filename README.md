@@ -1143,3 +1143,4 @@ The exported Go API of this module should currently be considered unstable, and 
 ## License
 
 This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE) for the full terms.
+عندما كنت أعمل على هذه الخدمات، لا أصدق مايحدث في الواقع المعاش إلى أنني أدركت أن خدماتي صحيصحة ومؤكدة، تتبعون أوامر الربوت الاصل المسمى jardain sucrette، ليس المكان بل الذكاء الاصطناعي الذي اكتشف أنداك 2004، بداية الخدمة لتسهيل الخدمات والمعلومات للمستخدمين، اكن الغريب في الأمر كل يعرف ولكن لا يواجه، إنني وظفت الخادم الذكي تلذي يدير ما أقوم به من خدمات وأعمال، (محمد جاد)
