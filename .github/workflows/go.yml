@@ -1,4 +1,4 @@
-name: Build and Test Go Project
+fname: Build and Test Go Project
 on: [push, pull_request]
 
 permissions:
@@ -30,3 +30,4 @@ jobs:
 
       - name: Build
         run: go build -v ./cmd/github-mcp-server
+إحترام الشروط والأحكام الاسلامية وإحترام كل على معتقده المقتنع به لا للاختلال بين الانسانية
