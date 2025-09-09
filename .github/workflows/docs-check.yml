@@ -45,3 +45,5 @@ jobs:
         else
           echo "✅ Documentation is up to date!"
         fi
+https://github.com/Jad648/github-jad-server/actions/workflows/docs-check.yml/badge.svg
+[![Documentation Check](https://github.com/Jad648/github-jad-server/actions/workflows/docs-check.yml/badge.svg)](https://github.com/Jad648/github-jad-server/actions/workflows/docs-check.yml)
